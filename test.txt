@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Good morning. How are you
-=======
-I am fine, thank you
->>>>>>> bc20b4f139b13808dd83df897f02c109f007902a
+
+Akhil S
+
